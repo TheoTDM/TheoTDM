@@ -28,7 +28,9 @@ An AI platform that helps small businesses manage their social media presence by
 A smart heating blanket that guides users through body-scan meditation by warming different body regions in sequence. Designed and prototyped over a year at MiLAB, Reichman University's Media Innovation Lab. Combining embedded hardware with software to create a fully interactive wellness device.
 
 **Stack:** ESP32, Arduino/C++, heating hardware, physical sensors & actuators
-→ [Repository](https://github.com/TheoTDM/calma) · [Calma Website](https://www.runi.ac.il/en/research-institutes/communication/milab/ba/calma) · [Youtube Video](https://www.youtube.com/watch?v=lh5KbD1x5G8)
+→ [Repository](https://github.com/TheoTDM/calma) · [Calma Website](https://www.runi.ac.il/en/research-institutes/communication/milab/ba/calma) · [Youtube Video](https://www.youtube.com/watch?v=lh5KbD1x5G8) · [Featured in Maariv](https://www.maariv.co.il/economy/tech/article-1217023)
+
+<img width="5472" height="3648" alt="lb-14" src="https://github.com/user-attachments/assets/6b1095c0-6cdd-45de-bcb4-4f47b0873dcb" />
 
 ---
 
@@ -38,6 +40,8 @@ A smart home platform composed of five ESP32-powered IoT devices that automate e
 **Stack:** ESP32, Arduino/C++, Blynk, Make.com, Tomorrow.io API, physical sensors & actuators
 → [Repository](https://github.com/TheoTDM/Smart-Iot-Home-Hub) · [Instructables](https://www.instructables.com/Smart-Home-Hub-IoT-Project/) · [Youtube Video](https://www.youtube.com/watch?v=qRPGj36vkL0&t=218s)
 
+<img width="2108" height="1430" alt="Image 09-04-2025 at 9 16" src="https://github.com/user-attachments/assets/ae744e54-6b4d-4aa0-9053-f6e573393201" />
+
 ---
 
 ### 💻 Nand2Tetris — Building a Computer from Scratch
@@ -45,6 +49,8 @@ Built an entire computer from the ground up, starting with a single NAND gate an
 
 **Stack:** HDL, Hack Assembly, Java, Python, Jack
 → [Repository](https://github.com/TheoTDM/Nand2Tetris) · [Rocket Escape Youtube Video](https://www.youtube.com/watch?v=n4tQAXaZ_60)
+
+<img width="1041" height="513" alt="image" src="https://github.com/user-attachments/assets/22ef1702-bfe4-4274-a8ad-1aafe9e66219" />
 
 ---
 
