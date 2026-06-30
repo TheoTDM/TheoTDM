@@ -12,7 +12,7 @@ I build complete products end-to-end — from designing a CPU out of NAND gates 
 An AI-powered platform that automatically finds and delivers every event photo a guest appears in using facial recognition. Guests upload a selfie, and the system matches it against every event photo using serverless GPU inference optimized to minimize cold-start latency while keeping infrastructure costs low.
 
 **Stack:** Next.js, TypeScript, Supabase, Cloudflare R2, Modal (serverless GPUs)
-→ [Private Repository](https://github.com/TheoTDM/GuestMatch) · [Website](https://guestmatch.io/)
+→ [Repository (private)](https://github.com/TheoTDM/GuestMatch) · [Website](https://guestmatch.io/)
 
 ---
 
@@ -20,7 +20,7 @@ An AI-powered platform that automatically finds and delivers every event photo a
 An AI platform that helps small businesses manage their social media presence by generating, scheduling, and publishing content. It creates captions, images, and AI-presenter videos using multiple AI models, then automatically publishes them through Instagram using a GitHub Actions-based serverless scheduler.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, Firebase, Cloudinary, Google Gemini, HeyGen, Meta Instagram API, GitHub Actions
-→ [Private Repository](https://github.com/Futurelabs-app/monorepo) · [Youtube Demo](https://youtu.be/RiQPoEKaWuE)
+→ [Repository (private)](https://github.com/Futurelabs-app/monorepo) · [Youtube Demo](https://youtu.be/RiQPoEKaWuE)
 
 ---
 
@@ -28,7 +28,7 @@ An AI platform that helps small businesses manage their social media presence by
 A smart heating blanket that guides users through body-scan meditation by warming different body regions in sequence. Designed and prototyped over a year at MiLAB, Reichman University's Media Innovation Lab. Combining embedded hardware with software to create a fully interactive wellness device.
 
 **Stack:** ESP32, Arduino/C++, heating hardware, physical sensors & actuators
-→ [Repository](https://github.com/TheoTDM/calma) · [Calma Website](https://www.runi.ac.il/en/research-institutes/communication/milab/ba/calma) [Youtune Video](https://www.youtube.com/watch?v=lh5KbD1x5G8)
+→ [Repository](https://github.com/TheoTDM/calma) · [Calma Website](https://www.runi.ac.il/en/research-institutes/communication/milab/ba/calma) · [Youtube Video](https://www.youtube.com/watch?v=lh5KbD1x5G8)
 
 ---
 
@@ -40,8 +40,8 @@ A smart home platform composed of five ESP32-powered IoT devices that automate e
 
 ---
 
-### 💻 nand2tetris — Building a Computer from Scratch
-Built an entire computer from the ground up, starting with a single NAND gate and progressing through the CPU, assembler, virtual machine, compiler, and operating system. The final project, Rocket Escape, is an original arcade game where players navigate a rocket through narrowing obstacles while collecting fuel and shields, demonstrating the complete computer and software stack built throughout the course.
+### 💻 Nand2Tetris — Building a Computer from Scratch
+Built an entire computer from the ground up, starting with a single NAND gate and progressing through the CPU, assembler, virtual machine, compiler, and operating system. The final project, **Rocket Escape**, is an original arcade game where players navigate a rocket through narrowing obstacles while collecting fuel and shields, demonstrating the complete computer and software stack built throughout the course.
 
 **Stack:** HDL, Hack Assembly, Java, Python, Jack
 → [Repository](https://github.com/TheoTDM/Nand2Tetris) · [Rocket Escape Youtube Video](https://www.youtube.com/watch?v=n4tQAXaZ_60)
